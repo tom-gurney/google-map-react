@@ -32,10 +32,6 @@
     "eventemitter3": "^4.0.4",
     "prop-types": "^15.7.2"
   },
-  "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
-  },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "cross-env": "^7.0.2",
